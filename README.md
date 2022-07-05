@@ -5,5 +5,5 @@
 - Also, I'm interested in startup and machine learning.
 
 - My Profile
-  - [Linkedin](www.linkedin.com/in/jeahyeon-park-44674615b)
+  - [Linkedin](https://www.linkedin.com/in/jeahyeon-park-44674615b/)
   - [Pragrammers (in Korean)](https://career.programmers.co.kr/pr/sawogus29_9603)
