@@ -1,6 +1,6 @@
 ### Who am I?
 
-- I’m a front-end developer
+- I’m a web fullstack developer
 
 - Also, I'm interested in startup and machine learning.
 
